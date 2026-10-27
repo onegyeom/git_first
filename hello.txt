@@ -7,3 +7,8 @@ git commit -m "오늘처음 만든 git" : 저장하고 나면 이 파일이 어�
 git config --global user.name "이름" ,
 git config --global user.email "이메일주소": 
 git 파일을 수정하고 기록할 때 누가 작성하고 올렸는지 확인하기 위해서 사용자 설정 
+
+오늘 오후에 들어갈 내용은
+좋은 커밋 작성법 : commit -m "내가 지금 한 작업내용"
+git log : git 기록 조회
+git status : git 현재 상태조회
