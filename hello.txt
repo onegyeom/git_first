@@ -14,3 +14,4 @@ git log : git 기록 조회
 git status : git 현재 상태조회
 
 git branch -M main : 현재 내 컴퓨터 작업공간의 이름을 변경
+git push -u origin main : origin 주소로 온라인에 업로드
